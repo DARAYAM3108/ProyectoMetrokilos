@@ -14,3 +14,6 @@ Afinar los requerimientos:
 
 ****En la próxima cita, definir el tipo de moneda en que se va a manejar cada 
 producto. (Tomar como base las dudas en el documento de RequerimienrosFuncionales)
+
+
+NECESITAMOS PENSAR EN COMO VAMOS A HACER PARA PERMITIRLE AL SISTEMA QUE HAGA IMPRESIONES DE FACTURAS, SALIDAS, ENTRADAS ETC ETC
