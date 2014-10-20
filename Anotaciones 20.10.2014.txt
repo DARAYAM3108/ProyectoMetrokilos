@@ -1,0 +1,11 @@
+> Pruebas PHP
+
+> Git para el repositorio del proyecto y código
+
+> Herramientas de integración continua "PHPUnderControl?" ----> Enlazada a un correo
+						              Despues de confirmado se sube 
+							      al servidor para PRODUCCION
+						              
+
+> Desarrollo "Drupal?"
+
