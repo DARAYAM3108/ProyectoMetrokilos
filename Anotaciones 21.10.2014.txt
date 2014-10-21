@@ -1,0 +1,7 @@
+Cambiar Entradas y Salidas a una sola tabla (Transacciones)
+
+Falta en el Modulo Salidas de los Requerimientos Funcionales las Ventas (Facturación)
+
+Revisar Redacción RF 0.6 hasta RF 0.8
+
+Implementar en ER Tabla Traslados
