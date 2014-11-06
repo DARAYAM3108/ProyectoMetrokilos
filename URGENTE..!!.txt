@@ -1,4 +1,4 @@
-Hacer casos de uso textuales que faltan
+﻿Hacer casos de uso textuales que faltan
 Arreglar los diagramas: Miguel ER, 
 Hacer diagramas de secuencia por cada caso de uso textual
 Hacer de caso de uso de cada actor
